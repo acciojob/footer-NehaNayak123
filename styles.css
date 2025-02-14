@@ -13,6 +13,9 @@ footer{
 	justify-content:space-between;
 	padding:20px;
 }
+.media-icons{
+	display:flex;
+}
 .logo_name{
 	font-size:30px
 }
@@ -37,7 +40,9 @@ a{
 }
 .bottom-details{
 	background-color:gray;
-	margin-top:10;
-	/* padding-top:-10; */
+	display:flex;
+	justify-content:space-between;
+	/* margin-top:10; */
+	padding:10px;
 }
 
